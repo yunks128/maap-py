@@ -1,4 +1,4 @@
-# Python MAAP Client Library
+[# Python MAAP Client Library
 
 Python client library that abstracts [MAAP API](https://github.com/MAAP-Project/maap-api) calls including CMR querying, algorithm change management, and HySDS job execution. CMR components in this library are largely derived from the [pyCMR](https://github.com/nasa/pyCMR) library.
 
@@ -78,3 +78,4 @@ lidarGranule = maap.searchGranule(instrument='lvis', site_name='lope')
 ```bash
 python setup.py test
 ```
+](https://github.com/NASA-AMMOS/slim-cli)
